@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pic.png" alt="Noor e Hamza Islamic College" width="300"/>
+<img src="pic.png" alt="Noor e Hamza Islamic College"/>
 
 # 🐍 Python Course – Final Year Students
 
